@@ -1,8 +1,10 @@
 ---
-layout: post
-title: 教育经历
+layout: page
+title: 个人经历
+permalink: /experience/
 ---
 
+# 教育经历
 
 ### **复旦大学**，大数据学院
 
@@ -52,3 +54,5 @@ title: 教育经历
 
 <br/>
 <br/>
+
+# 实习经历
