@@ -8,7 +8,7 @@ permalink: /collection/
 
 给新兴C2C周边交易市场中买卖双方提供的信息交流平台。
 
-[read more](https://sigababa.github.io/dollsGarden/)
+[Read More](https://sigababa.github.io/dollsGarden/)
 
 **登陆页面：**
 ![](https://raw.githubusercontent.com/sigababa/sigababa.github.io/master/images/collections/dollsGarden_01.jpg)

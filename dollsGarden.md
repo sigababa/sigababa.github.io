@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 作品集
+title: “哇娃好大一个坑” 微信小程序
 permalink: /dollsGarden/
 ---
-
-### **“哇娃好大一个坑” 微信小程序**
 
 给新兴C2C周边交易市场中买卖双方提供的信息交流平台。
 
